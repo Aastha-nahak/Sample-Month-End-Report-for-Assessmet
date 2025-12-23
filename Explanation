@@ -1,0 +1,44 @@
+1. What are your insights and learnings from this data in a simple easy to understand way as if you are explaining to a 10 year old child?
+ANSWER
+--> Insights & Learnings (Explained Simply, Like to a 10-Year-Old)
+Imagine you have a school day with different subjects like Maths, English, Sports, and Art.
+If you spend most of your time doing homework for one subject, you won’t have enough time for the others. The same thing is happening here.
+Insight 1: Most time is spent on “Developer” and “Consultant/Architect” work
+The data shows that the largest share of time is spent on technical and advisory activities rather than pure sales work.
+What this means (simple)-The Sales employee is spending a lot of time helping solve problems instead of finding new customers and growing business.
+from data Developer and Consultant/Architect categories have much higher hours compared to Admin or other categories.
+Insight 2: Some time is recorded as “Unknown”
+There are hours where it is not clear what work was done.
+What this means (simple)-It’s like saying “I was busy” but not knowing with what. If we don’t know, we can’t fix or improve it.
+from data The “Unknown” category has a noticeable number of hours, showing lack of clarity in tracking.
+Insight 3: A few clients take up most of the time
+Only a small number of companies or internal groups consume a very large part of the total working hours.
+What this means (simple)-Some people are asking for help again and again, while others need very little help.
+from data 'Top 2–3 clients show much higher hours compared to the rest'.
+Insight 4: More time does not always mean more value
+Just because a client takes more time does not automatically mean they are the most profitable or important.
+What this means (simple)-Spending too much time on one thing means less time for new opportunities.
+Business learning This creates opportunity cost—time spent here cannot be spent elsewhere.
+
+2. What best practices should be followed to improve efficiency - based on your insights?
+ANSWER
+-->Best Practice 1: Clearly separate Sales work from Technical work
+Sales should focus on customers, deals, and relationships
+Technical teams should handle deep technical problem-solving
+Why this helps-Sales time is used for growth, not execution.
+Best Practice 2: Remove the “Unknown” category
+Make time logging clear and mandatory
+Use fixed categories so every hour is explained
+Why this helps-Clear data leads to better decisions and accountability.
+Best Practice 3: Track value along with time
+Compare hours spent per client with business value or revenue
+Identify clients that take high effort but give low returns
+Why this helps-Time is invested where it creates the most impact.
+Best Practice 4: Protect dedicated sales time
+Block fixed time for sales planning, follow-ups, and new leads
+Avoid pulling sales staff into unnecessary technical discussions
+Why this helps-Improves focus, consistency, and long-term growth.
+Best Practice 5: Standardize and delegate repeat work
+Use templates, documents, and standard processes
+Delegate routine tasks to junior staff or automation tools
+Why this helps-Senior resources focus on high-value work instead of repeat tasks.
